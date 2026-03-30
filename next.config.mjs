@@ -2,6 +2,7 @@
 const nextConfig = {
   output: 'export',
   basePath: '/Leaf-Sense',
+  trailingSlash: true,
   images: {
     unoptimized: true,
   },
