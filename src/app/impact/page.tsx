@@ -182,7 +182,7 @@ export default function ImpactPage() {
               </p>
               
               <a 
-                href="https://leaf-sense-plum.vercel.app/" 
+                href="https://deepaksaimohapatra.github.io/Leaf-Sense/" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group relative inline-flex items-center justify-center bg-white text-deepBlack px-10 py-5 rounded-full font-bold text-xl overflow-hidden transition-all hover:scale-105 active:scale-95 shadow-[0_0_40px_rgba(255,255,255,0.2)] hover:shadow-[0_0_60px_rgba(255,255,255,0.4)]"
