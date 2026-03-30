@@ -141,7 +141,7 @@ export function ScrollOverlays() {
              </p>
              <div className="flex flex-col sm:flex-row items-center gap-4 pointer-events-auto">
                  <a 
-                   href="https://leaf-sense-plum.vercel.app/"
+                   href="https://deepaksaimohapatra.github.io/Leaf-Sense/"
                    target="_blank"
                    rel="noopener noreferrer"
                    className="bg-white text-deepBlack hover:bg-white/90 px-8 py-4 rounded-full font-semibold text-lg transition-all shadow-[0_0_30px_rgba(255,255,255,0.3)] hover:scale-105 active:scale-95"

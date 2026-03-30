@@ -41,7 +41,7 @@ export default function Navbar() {
         </div>
 
         <a 
-          href="https://leaf-sense-plum.vercel.app/"
+          href="https://deepaksaimohapatra.github.io/Leaf-Sense/"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-white/10 hover:bg-white/20 text-white px-5 py-2.5 rounded-full text-sm font-medium backdrop-blur-md transition-all border border-white/5 hover:border-white/20"
