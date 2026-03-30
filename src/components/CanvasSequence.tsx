@@ -20,7 +20,7 @@ export function CanvasSequence() {
         const img = new Image();
         // Load every single high-res frame sequentially
         const frameIndex = i.toString().padStart(3, '0');
-        img.src = `/exploadedvid/ezgif-frame-${frameIndex}.jpg`;
+        img.src = `/Leaf-Sense/exploadedvid/ezgif-frame-${frameIndex}.jpg`;
 
         img.onload = () => {
             loadedCount++;

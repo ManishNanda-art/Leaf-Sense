@@ -20,7 +20,7 @@ export default function TechnologyPage() {
         style={{ scale: bgScale, opacity: bgOpacity, willChange: "transform, opacity" }}
       >
         <Image 
-          src="/tech-bg.png"
+          src="/Leaf-Sense/tech-bg.png"
           alt="Plant Analytics Background"
           fill
           className="object-cover object-bottom"
